@@ -4,7 +4,7 @@
 # name: value
 
 ## Overrides for generated resource names
-# See templates/_helpers.tpl
+## See templates/_helpers.tpl
 # nameOverride:
 # fullnameOverride:
 # namespaceOverride:
